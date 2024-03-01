@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Flechas.png</file>
+        <file>WASD.png</file>
+    </qresource>
+</RCC>

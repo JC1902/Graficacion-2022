@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>abrir archivo.png</file>
+        <file>play.png</file>
+        <file>pausa.png</file>
+        <file>stop.png</file>
+        <file>unmute.png</file>
+        <file>mute.png</file>
+        <file>jugador.png</file>
+        <file>enemigo1.png</file>
+        <file>enemigo2.png</file>
+        <file>enemigo3.png</file>
+        <file>proyectil.png</file>
+        <file>fondo.jpg</file>
+        <file>1vida.png</file>
+        <file>2vidas.png</file>
+        <file>3vidas.png</file>
+        <file>aliado.png</file>
+        <file>salir (1).png</file>
+        <file>start (1).png</file>
+        <file>proyectilbot.png</file>
+        <file>GO.png</file>
+    </qresource>
+</RCC>

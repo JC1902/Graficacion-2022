@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>fondoAni.jpg</file>
+        <file>GokuyGohan.png</file>
+        <file>GokuyGohanReves.png</file>
+    </qresource>
+</RCC>

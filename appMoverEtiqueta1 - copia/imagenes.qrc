@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>alex der.jpg</file>
+        <file>alex izq.jpg</file>
+        <file>detener.png</file>
+        <file>play.png</file>
+        <file>salir.png</file>
+    </qresource>
+</RCC>

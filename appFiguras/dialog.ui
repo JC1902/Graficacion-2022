@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1000</width>
+    <height>950</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Figuras, plumas y brochas</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(180, 180, 180);</string>
+  </property>
+  <widget class="QPushButton" name="cButtonInicio">
+   <property name="geometry">
+    <rect>
+     <x>370</x>
+     <y>920</y>
+     <width>80</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(179, 153, 255);
+color: rgb(0, 0, 0);</string>
+   </property>
+   <property name="text">
+    <string>Inicio</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="cButtonPausa">
+   <property name="geometry">
+    <rect>
+     <x>456</x>
+     <y>920</y>
+     <width>80</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(179, 153, 255);
+color: rgb(0, 0, 0);</string>
+   </property>
+   <property name="text">
+    <string>Pausa</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="cButtonSalir">
+   <property name="geometry">
+    <rect>
+     <x>542</x>
+     <y>920</y>
+     <width>80</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(179, 153, 255);
+color: rgb(0, 0, 0);</string>
+   </property>
+   <property name="text">
+    <string>Salir</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1001</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(0, 0, 0);</string>
+   </property>
+   <property name="text">
+    <string>Jorge Cisneros de la Torre   No de control: 20130789</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
